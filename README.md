@@ -1,6 +1,14 @@
-# משחק יום הולדת 50 לאבא
-משחק קטן שהכנתי כמתנת יום הולדת 50 לאבא שלי כשהייתי בן 16.
+# Unity 2D Shooter For My Dad
+![Unity](https://img.shields.io/badge/Unity-teal)
+![C#](https://img.shields.io/badge/C%23-blue)
+![Javascript](https://img.shields.io/badge/Javascript-orange)
 
-יש 5 שלבים + יש חנות שאפשר לקנות בה נשקים אחרי שמרוויחים כסף
+This is a game i made in Unity for my dad's 50th birthday, i was about 16 at the time
+The game features:
+- 5 playable Levels with enemies, platforms and secrets
+- Shop to buy better weapons
+- Some home-made sound effects which are... well.. interesting.
+https://aviv-uziel-data-analyst.github.io/
 
-יש סאונד אפקטס Home Made - תהנו...
+[Play The Game](https://aviv-uziel-data-analyst.github.io/)
+
