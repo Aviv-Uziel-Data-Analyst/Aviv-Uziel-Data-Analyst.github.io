@@ -8,7 +8,6 @@ The game features:
 - 5 playable Levels with enemies, platforms and secrets
 - Shop to buy better weapons
 - Some home-made sound effects which are... well.. interesting.
-https://aviv-uziel-data-analyst.github.io/
 
 [Play The Game](https://aviv-uziel-data-analyst.github.io/)
 
