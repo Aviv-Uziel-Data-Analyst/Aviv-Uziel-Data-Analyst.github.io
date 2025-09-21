@@ -4,6 +4,7 @@
 ![Javascript](https://img.shields.io/badge/Javascript-orange)
 
 This is a game i made in Unity for my dad's 50th birthday, i was about 16 at the time
+
 The game features:
 - 5 playable Levels with enemies, platforms and secrets
 - Shop to buy better weapons
